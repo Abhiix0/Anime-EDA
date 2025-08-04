@@ -42,7 +42,7 @@ Welcome to the **Anime Exploratory Data Analysis (EDA)** project! Dive deep into
 ### ✅ Step 1: Load the Data
 
 * Loaded both CSVs with `pd.read_csv()`
-* Peeked at the first few rows to understand structure
+* Peeked at the first few rows to understand the structure
 
 ### ✅ Step 2: Data Understanding
 
@@ -70,7 +70,7 @@ Welcome to the **Anime Exploratory Data Analysis (EDA)** project! Dive deep into
 * **Top Rated Genres** (based on user ratings)
 * **Most Watched Anime** (by member count)
 * **Rating Distribution Counts**
-* **Genre-based Recommender Function** to get top anime for a given genre
+* **Genre-based Recommender Function** to get the top anime for a given genre
 
 ---
 
